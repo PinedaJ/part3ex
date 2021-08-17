@@ -1,2 +1,2 @@
-Part 3 exercises 3.1 -
+Part 3 exercises 3.1 - 3.6
 
